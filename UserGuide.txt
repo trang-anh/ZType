@@ -1,0 +1,11 @@
+-- ZType Game --
+
+This is a typing game where you will type each word of a time. 
+If you type the letter of a word, the word will turn green and reduce by 1 character each time.
+You win when you when finish typing all the letters on the screen. 
+The score should increase by 10 for every time you type a character correctly. 
+
+Have fun playing!
+
+
+
