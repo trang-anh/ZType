@@ -34,7 +34,7 @@ External Library: This project is built on a custom library provided by CS2510 F
    2) Click on Java Build Path > Libraries and click Add External JARS
    3) Browse to the lib folder and select both of the JAR files to add it.
    4) Click Apply and Close
-5. Navigate to the EclipseWorkspace folder and move the ZType.java file to the src file of the project you created.
+5. Move the ZType.java file to the src file of the project you created.
 6. Running the file:
    1) Click the arrow down symbol next to the first green play button in the bar near the top of the screen/
    2) Click Run Configurations > Java Application in the sidebar.
